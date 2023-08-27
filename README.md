@@ -1,2 +1,3 @@
 # Apnacollege-demo1
-hi
+This is git learning repo
+
